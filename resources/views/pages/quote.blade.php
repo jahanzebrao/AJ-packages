@@ -109,7 +109,7 @@
                 Submit Quote Request →
             </button>
 
-            <p class="text-brand-mid/40 text-xs text-center">We respond within 24 hours. You can also call us directly at <a href="tel:+923018250025" class="text-brand-gold hover:underline">03062464800</a>.</p>
+            <p class="text-brand-mid/40 text-xs text-center">We respond within 24 hours. You can also call us directly at <a href="tel:+923062464800" class="text-brand-gold hover:underline">03062464800</a>.</p>
         </form>
     </div>
 </section>
