@@ -1,7 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Request a Packaging Quote — AJ Packages Karachi')
-@section('meta_desc', 'Request a free custom packaging quote from AJ Packages. Corrugated boxes, die-cut boxes and display cartons. Custom sizes available. Based in Karachi, Pakistan.')
-@section('meta_keywords', 'packaging quote karachi, corrugated box quote pakistan, custom box quote, AJ Packages quote')
+@section('title', 'Request a Quote')
 
 @section('content')
 
@@ -109,7 +107,7 @@
                 Submit Quote Request →
             </button>
 
-            <p class="text-brand-mid/40 text-xs text-center">We respond within 24 hours. You can also call us directly at <a href="tel:+923018250025" class="text-brand-gold hover:underline">030 1825 0025</a>.</p>
+            <p class="text-brand-mid/40 text-xs text-center">We respond within 24 hours. You can also call us directly at <a href="tel:+923062464800" class="text-brand-gold hover:underline">0306-2464800</a>.</p>
         </form>
     </div>
 </section>
